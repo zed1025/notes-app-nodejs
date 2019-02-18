@@ -4,7 +4,7 @@
 
 ### Installing
 - Go to the project directory
-    notes->
+
 - Run
     ```npm install```
 
